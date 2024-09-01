@@ -16,41 +16,41 @@ This token using the pattern ERC-721 in the network Ethereum to realize transact
 ## Remix IDE - Create smart contract in the blockchain
 
 #### Deploy smart contract and conect in metamask wallet
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/remix.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/remix.PNG)
 
 #### Smart contract created in the Hardhat Server
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/contract.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/contract.PNG)
 
 #### Metamask implementation smart contract
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/contract_confirmed.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/contract_confirmed.PNG)
 
 ## IPFS(File upload Pokemon images)
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/ipfs.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/ipfs.PNG)
 
 ## Create a Pokemon
 #### Pokemon 1
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/create_pokemon1.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/create_pokemon1.PNG)
 
 #### Pokemon 2
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/create_pokemon2.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/create_pokemon2.PNG)
 
 ## Battle between Pokemon
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/battle.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/battle.PNG)
 
 #### Hardhat log battle
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/hardhat_contract.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/hardhat_contract.PNG)
 
 #### Pokemon 1 - level
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/pokemon1_level.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/pokemon1_level.PNG)
 
 #### Pokemon 2 - level
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/pokemon2_level.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/pokemon2_level.PNG)
 
 #### Battle history metamask
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/battle_history.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/battle_history.PNG)
 
 ## Metamask transaction history
-![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/metamask.png)
+![](https://github.com/tiagoleal/PokemonNFT/blob/main/img/metamask.PNG)
 
 
 ## Stack the Project
