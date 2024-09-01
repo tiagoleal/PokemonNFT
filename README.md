@@ -13,7 +13,6 @@ Create NFT to simulated a Pokemon battle game in blockchain.
 This token using the pattern ERC-721 in the network Ethereum to realize transactions.
 </p>
 
-
 ## Remix IDE - Create smart contract in the blockchain
 
 #### Deploy smart contract and conect in metamask wallet
